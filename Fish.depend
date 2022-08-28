@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661674829 source:c:\users\ljh\desktop\unfinished\fish\main.cpp
+	"graphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<time.h>
+	<vector>
+
+1661654061 source:c:\users\ljh\desktop\unfinished\fish\obj.cpp
+
